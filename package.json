@@ -1,0 +1,19 @@
+{
+  "name": "testvagrant_assignment",
+  "version": "1.0.0",
+  "description": "Assignment1_songPlayStore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThariniPrabakaran/testVagrant_assignment.git"
+  },
+  "author": "Tharini Prabakaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThariniPrabakaran/testVagrant_assignment/issues"
+  },
+  "homepage": "https://github.com/ThariniPrabakaran/testVagrant_assignment#readme"
+}
